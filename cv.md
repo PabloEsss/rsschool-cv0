@@ -31,3 +31,13 @@ Brest State Technical University
 ## **LANGUAGE:** ##
 Strong side, I give a table
 
+Language| How long study | Were applied
+--------|:--------------:|:-----------:
+Russian| Since 2 y.o.| Ordinary life
+Belarussian|
+English|
+Spanish|
+Polish|
+Ukranian|
+
+
