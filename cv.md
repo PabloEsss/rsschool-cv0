@@ -21,7 +21,12 @@ I am 32 y.o. and most of my life I worked in entertainment industry and I have t
 
 
 ## **CODE EXAMPLES:** ##
-
+```
+function multiply(a, b){
+  return a * b
+}
+multiply(2,2);
+```
 
 ## **EDUCATION:** ##
 Brest State Technical University
